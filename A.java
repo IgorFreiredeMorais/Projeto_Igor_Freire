@@ -25,7 +25,7 @@ public class A {
   }
 
   public float getA2() {
-    return salario;
+    return A2;
   }
 
   public void setA2(float A2) {
