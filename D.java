@@ -16,6 +16,11 @@ public class D {
      public void MD2(){
       System.out.println("Nome do método: MD2");
     }
+    
+     public void MD4(){
+      System.out.println("Nome do método: MD4");
+    }
+    
   
     public int getD1() {
       return D1;
