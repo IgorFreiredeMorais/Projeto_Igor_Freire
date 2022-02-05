@@ -3,7 +3,7 @@ public class B {
   private int B1;
   private float B2;
 
-  public A(int B1, float B2) {
+  public B(int B1, float B2) {
     this.B1 = B1;
     this.B2 = B2;
   }
@@ -25,7 +25,7 @@ public class B {
   }
 
   public float getB2() {
-    return salario;
+    return B2;
   }
 
   public void setB2(float B2) {
