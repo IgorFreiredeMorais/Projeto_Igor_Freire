@@ -9,11 +9,11 @@ public class A {
   }
 
   public void MA1(){
-    System.out.println(“Nome do método: MA1”);
+    System.out.println("Nome do método: MA1");
   }
   
    public void MA2(){
-    System.out.println(“Nome do método: MA2”);
+    System.out.println("Nome do método: MA1");
   }
 
   public int getA1() {
