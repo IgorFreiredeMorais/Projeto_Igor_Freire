@@ -16,6 +16,10 @@ public class C {
      public void MC2(){
       System.out.println("Nome do método: MC2");
     }
+
+    public void MC3(){
+        System.out.println("Nome do método: MC3");
+      }
   
     public int getC1() {
       return C1;
